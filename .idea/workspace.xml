@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa623ed2-589e-43ce-9570-3d141718cf40" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;docs/index.html">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="aa623ed2-589e-43ce-9570-3d141718cf40" name="Changes" comment="Hackerrank react solutions">
+      <change afterPath="$PROJECT_DIR$/Articles_Sorting/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles_Sorting/Articles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,10 @@
       <workItem from="1741853619216" duration="787000" />
       <workItem from="1742132673866" duration="822000" />
       <workItem from="1742561661970" duration="353000" />
+      <workItem from="1742621199801" duration="2658000" />
+      <workItem from="1743410342861" duration="81000" />
+      <workItem from="1744270780393" duration="15000" />
+      <workItem from="1745944552966" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="Employee Validation HackerRank Solution.">
       <option name="closed" value="true" />
@@ -162,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742133588598</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Hackerrank react solutions">
+      <option name="closed" value="true" />
+      <created>1742624839952</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742624839952</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Hackerrank react solutions">
+      <option name="closed" value="true" />
+      <created>1742624854410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742624854410</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +208,7 @@
     <MESSAGE value="Create index.html" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;docs/index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;docs/index.html" />
+    <MESSAGE value="Hackerrank react solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hackerrank react solutions" />
   </component>
 </project>
